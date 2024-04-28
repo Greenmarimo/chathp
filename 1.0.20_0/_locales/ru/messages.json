@@ -1,0 +1,536 @@
+{
+   "3_day_free_trial_for_all_new_accounts": {
+      "message": "3 дня БЕСПЛАТНО для новых анкет"
+   },
+   "account_info": {
+      "message": "Информация об учетной записи"
+   },
+   "activate": {
+      "message": "Активировать"
+   },
+   "active": {
+      "message": "Активный"
+   },
+   "add": {
+      "message": "Добавить"
+   },
+   "add_from_vault": {
+      "message": "Добавить из хранилища"
+   },
+   "add_operator_name": {
+      "message": "Добавить оператора"
+   },
+   "additional_information": {
+      "message": "Дополнительная информация"
+   },
+   "age_and_occupation": {
+      "message": "Хобби"
+   },
+   "agree_to_delete": {
+      "message": "Да!"
+   },
+   "all": {
+      "message": "Все"
+   },
+   "all_purchases": {
+      "message": "Все покупки"
+   },
+   "all_tags": {
+      "message": "Все теги"
+   },
+   "apply": {
+      "message": "Применить"
+   },
+   "average_price": {
+      "message": "Средняя цена"
+   },
+   "blur_images": {
+      "message": "Размывать изображения"
+   },
+   "bottom_left": {
+      "message": "Снизу слева"
+   },
+   "bottom_right": {
+      "message": "Снизу справа"
+   },
+   "cancel": {
+      "message": "Отмена"
+   },
+   "cancellation_completed": {
+      "message": "Отмена завершена"
+   },
+   "cancelling": {
+      "message": "Отмена..."
+   },
+   "chatter": {
+      "message": "Чаттер"
+   },
+   "choose_language": {
+      "message": "Язык"
+   },
+   "clear_my_labels": {
+      "message": "Очисти мои ярлыки"
+   },
+   "close": {
+      "message": "Закрыть"
+   },
+   "color": {
+      "message": "Цвет"
+   },
+   "continue": {
+      "message": "Продолжить"
+   },
+   "count": {
+      "message": "Кол."
+   },
+   "create": {
+      "message": "Создать"
+   },
+   "create_and_preview": {
+      "message": "Предварительный просмотр"
+   },
+   "created_at": {
+      "message": "Начало"
+   },
+   "customize_the_greeting_message": {
+      "message": "Настроить приветственное сообщение"
+   },
+   "default": {
+      "message": "По умолчанию"
+   },
+   "delay": {
+      "message": "Задержка"
+   },
+   "delay_in_seconds_between_each_message": {
+      "message": "Задержка в секундах между каждым сообщением"
+   },
+   "delete_confirmation": {
+      "message": "Вы хотите удалить запись?"
+   },
+   "disabled": {
+      "message": "Не активнен"
+   },
+   "done": {
+      "message": "Готово"
+   },
+   "duration": {
+      "message": "Подписан"
+   },
+   "edit_todo": {
+      "message": "Редактировать задачу"
+   },
+   "emoji_list": {
+      "message": "Эмодзи"
+   },
+   "en": {
+      "message": "Английский"
+   },
+   "end_shift": {
+      "message": "Завершить смену"
+   },
+   "estimated_time": {
+      "message": "Расчетное время"
+   },
+   "exclude_creators": {
+      "message": "Исключение создателей"
+   },
+   "exclude_who_spend_less": {
+      "message": "Исключить тех, кто тратит меньше"
+   },
+   "exclude_who_spend_more": {
+      "message": "Исключить тех, кто тратит больше"
+   },
+   "excluded": {
+      "message": "Исключено"
+   },
+   "excluded_lists": {
+      "message": "Исключенные списки"
+   },
+   "exit": {
+      "message": "Выход"
+   },
+   "extension": {
+      "message": "Расширение"
+   },
+   "failed": {
+      "message": "Ошибка"
+   },
+   "fan": {
+      "message": "Фанат"
+   },
+   "fan_not_found_error": {
+      "message": "Не найдены фаны для отправки. Попробуйте уменьшить список исключений"
+   },
+   "fan_profile": {
+      "message": "Профиль фаната"
+   },
+   "fan_purchases_media": {
+      "message": "Покупки"
+   },
+   "fan_purchases_prices": {
+      "message": "Прайс покупок"
+   },
+   "fans": {
+      "message": "Фанаты"
+   },
+   "fans_online": {
+      "message": "Фанаты онлайн"
+   },
+   "filter": {
+      "message": "Фильтр"
+   },
+   "greeting_message": {
+      "message": "Приветственное сообщение"
+   },
+   "greeting_message_intro": {
+      "message": "С помощью этой функции вы сможете создавать и настраивать приветственное сообщение. Пользователи могут указать продолжительность времени в минутах. Мы постоянно отслеживаем подписки фанатов. После подписки кого-либо, начинает работать установленный пользователем таймер. Если никто не отправит сообщение до истечения времени таймера, наша система автоматически отправит сохраненное приветственное сообщение"
+   },
+   "h": {
+      "message": "ч"
+   },
+   "hide_creators": {
+      "message": "Скрыть создателей"
+   },
+   "hobbies": {
+      "message": "Фанат"
+   },
+   "include_unpurchased": {
+      "message": "Не купленные"
+   },
+   "income_without_percent": {
+      "message": "Сум без %"
+   },
+   "key": {
+      "message": "Ключ"
+   },
+   "labels": {
+      "message": "Ярлыки"
+   },
+   "large": {
+      "message": "Большой"
+   },
+   "last_comments": {
+      "message": "Последние комментарии"
+   },
+   "last_likes": {
+      "message": "Последние лайки"
+   },
+   "last_purchases": {
+      "message": "Последние покупки"
+   },
+   "last_subscribers": {
+      "message": "Последние подписчики"
+   },
+   "left": {
+      "message": "Слева"
+   },
+   "license_account": {
+      "message": "Учетная запись:"
+   },
+   "lists": {
+      "message": "Список"
+   },
+   "live_support": {
+      "message": "Поддержка"
+   },
+   "loading": {
+      "message": "загрузка"
+   },
+   "m": {
+      "message": "м"
+   },
+   "mass_message_intro": {
+      "message": "С помощью этой функции вы можете создать массовое сообщение, которое будет отправлено как личное сообщение и появится на вкладке \u003Cstrong>приоритет\u003C/strong> фанатов.\n\u003Cbr/>\u003Cbr/>\n\u003Ci class=\"fa fa-предупреждение\">\u003C/i> Пожалуйста, используйте эту функцию только для списка, в котором \u003Cstrong>меньше\u003C/strong>, чем \u003Cstrong>1000 поклонников\u003C/strong>."
+   },
+   "mass_message_sender": {
+      "message": "Отправитель массового сообщения"
+   },
+   "mass_message_sender_intro": {
+      "message": "\u003Ci class=\"fa fa-warning\">\u003C/i> \u003Cstrong>Не закрывайте это окно\u003C/strong>, так как отправка будет прервана!\u003Cbr/>Как только процесс завершится, вы можете закрыть его.\u003Cbr/>\u003Ca href=\"https://onlyfans.com \\\" цель=\\\"_blank\\\" rel=\\\"nofollow\\\">Вместо этого откройте\u003C/a> новую вкладку, чтобы продолжить работу."
+   },
+   "mass_messages": {
+      "message": "Массовые сообщения"
+   },
+   "max_points": {
+      "message": "Макс. точек"
+   },
+   "max_price": {
+      "message": "Максимальная цена"
+   },
+   "media": {
+      "message": "Медиа"
+   },
+   "media_files": {
+      "message": "Медиафайлы"
+   },
+   "media_vault": {
+      "message": "Медиа хранилище"
+   },
+   "medium": {
+      "message": "Средний"
+   },
+   "message": {
+      "message": "Сообщение"
+   },
+   "message_overview": {
+      "message": "Обзор"
+   },
+   "message_preview": {
+      "message": "Предварительный просмотр сообщения"
+   },
+   "messages": {
+      "message": "Сообщения"
+   },
+   "min": {
+      "message": "Мин"
+   },
+   "name": {
+      "message": "Имя"
+   },
+   "new": {
+      "message": "Новое"
+   },
+   "new_mass_message": {
+      "message": "Новое массовое сообщение"
+   },
+   "new_todo": {
+      "message": "Новая задача"
+   },
+   "news_and_updates": {
+      "message": "Новости"
+   },
+   "no": {
+      "message": "Нет"
+   },
+   "note_for_fan": {
+      "message": "Заметка про фаната"
+   },
+   "of": {
+      "message": "из"
+   },
+   "online": {
+      "message": "онлайн"
+   },
+   "online_fans_settings": {
+      "message": "Настройки онлайн-фанатов"
+   },
+   "open": {
+      "message": "Открыть"
+   },
+   "open_dialog_to_load_fan_info": {
+      "message": "Откройте диалоговое окно для загрузки информации о фанате"
+   },
+   "operator": {
+      "message": "Оператор"
+   },
+   "operator_income": {
+      "message": "ОП $"
+   },
+   "page_income": {
+      "message": "Сум с %"
+   },
+   "photo": {
+      "message": "Фото"
+   },
+   "please_choose_the_operator": {
+      "message": "Пожалуйста, выберите оператора"
+   },
+   "please_refresh_page": {
+      "message": "Пожалуйста \u003Ca type=\"button\" role=\"button\" tabindex=\"0\" class=\"refreshBtn\"> обновите \u003C/a> страницу, чтобы применить изменения"
+   },
+   "posts": {
+      "message": "Посты"
+   },
+   "press_esc_to_close": {
+      "message": "Press \u003Cspan class=\"black_button_highlight\">ESC\u003C/span> to close"
+   },
+   "price": {
+      "message": "Цена"
+   },
+   "prices": {
+      "message": "Прайс"
+   },
+   "profile": {
+      "message": "Профиль"
+   },
+   "prolong_subscribe": {
+      "message": "Продлить подписку"
+   },
+   "purchases": {
+      "message": "Покупки"
+   },
+   "read_more": {
+      "message": "больше"
+   },
+   "reply_on_subscribe_is_enable": {
+      "message": "Пожалуйста, обратите внимание, что вы уже включили функцию ответа при подписке на OnlyFans. Если вы также включите нашу функциональность, подписчики получат два приветственных сообщения при подписке\u003C/i>"
+   },
+   "reset": {
+      "message": "Сбросить"
+   },
+   "returning": {
+      "message": "Возвр."
+   },
+   "right": {
+      "message": "Справа"
+   },
+   "ru": {
+      "message": "Русский"
+   },
+   "s": {
+      "message": "с"
+   },
+   "save": {
+      "message": "Сохранить"
+   },
+   "select_list": {
+      "message": "Выберите список"
+   },
+   "select_user": {
+      "message": "Выберите оператора"
+   },
+   "send_to": {
+      "message": "Кому"
+   },
+   "sending": {
+      "message": "Отправка"
+   },
+   "settings": {
+      "message": "Настройки"
+   },
+   "show_multiple_for_day": {
+      "message": "Показывать несколько раз за день (если доступно)"
+   },
+   "sign_in": {
+      "message": "Вход"
+   },
+   "sign_into_onlyfans_account_first": {
+      "message": "Сначала войдите в учетную запись OnlyFans"
+   },
+   "sign_up": {
+      "message": "Регистрация"
+   },
+   "size": {
+      "message": "Размер"
+   },
+   "small": {
+      "message": "Маленький"
+   },
+   "spend_less_than_zero": {
+      "message": "Сообщение получат только те фанаты, которые потратили от \u003Cstrong>> $${spend_less}\u003C/strong>."
+   },
+   "spend_more_than_zero": {
+      "message": "Сообщение получат только те фанаты, которые потратили от  \u003Cstrong>\u003C $${spend_more}\u003C/strong>."
+   },
+   "spent": {
+      "message": "Сумма покупок"
+   },
+   "spent_less_than_zero_and_spend_more_then_zero": {
+      "message": "Сообщение получат только те фанаты, которые потратили от \u003Cstrong>$${spend_less}\u003C/strong> до \u003Cstrong>$${spend_more}\u003C/strong>."
+   },
+   "start": {
+      "message": "Начать"
+   },
+   "start_shift": {
+      "message": "Начать смену"
+   },
+   "status": {
+      "message": "Статус"
+   },
+   "stop": {
+      "message": "Стоп"
+   },
+   "subs": {
+      "message": "Подписка"
+   },
+   "subscribe_end": {
+      "message": "Конец подписки"
+   },
+   "subscribed": {
+      "message": "Подписка"
+   },
+   "success": {
+      "message": "Успех"
+   },
+   "task_is_created": {
+      "message": "Создана новая задача"
+   },
+   "task_is_updated": {
+      "message": "Задача была обновлена"
+   },
+   "templates": {
+      "message": "Шаблоны"
+   },
+   "thanks_for_choosing_our_extension": {
+      "message": "Спасибо, что выбрали наше расширение!"
+   },
+   "time_zones": {
+      "message": "Час. пояса"
+   },
+   "timeout": {
+      "message": "Tаймаут"
+   },
+   "tips": {
+      "message": "Чай"
+   },
+   "todo_done": {
+      "message": "Готово"
+   },
+   "todo_intro": {
+      "message": "С помощью этой функции вы можете создать список дел"
+   },
+   "todo_undone": {
+      "message": "В работе"
+   },
+   "todos": {
+      "message": "Список дел"
+   },
+   "top_left": {
+      "message": "Сверху слева"
+   },
+   "top_right": {
+      "message": "Сверху справа"
+   },
+   "total_accounts": {
+      "message": "Всего аккаунтов"
+   },
+   "unsend": {
+      "message": "Неотправленные"
+   },
+   "unsend_done": {
+      "message": "Отправка завершена"
+   },
+   "unsending": {
+      "message": "Неотправленный"
+   },
+   "unsent": {
+      "message": "Неотправленное"
+   },
+   "updated_at": {
+      "message": "Обнов."
+   },
+   "updates": {
+      "message": "Обновления"
+   },
+   "user_will_be_online": {
+      "message": "\u003Ci>Кроме того, обратите внимание, что для работы приветствия вы должны находиться в сети"
+   },
+   "video": {
+      "message": "Видео"
+   },
+   "we_dont_collect_any_credential_or_session_key_data": {
+      "message": "Мы не собираем никаких учетных данных или ключи сессии,"
+   },
+   "we_verify_all_accounts_to_confirm_your_ownership_of_them": {
+      "message": "Мы проверяем ваше право собственности на анкеты,"
+   },
+   "website": {
+      "message": "Веб-сайт"
+   },
+   "where_from": {
+      "message": "Откуда"
+   },
+   "yes": {
+      "message": "Да"
+   }
+}

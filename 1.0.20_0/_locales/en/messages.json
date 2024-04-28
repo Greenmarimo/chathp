@@ -1,0 +1,536 @@
+{
+   "3_day_free_trial_for_all_new_accounts": {
+      "message": "3-day FREE-Trial for all new accounts"
+   },
+   "account_info": {
+      "message": "Account Info"
+   },
+   "activate": {
+      "message": "Activate"
+   },
+   "active": {
+      "message": "Active"
+   },
+   "add": {
+      "message": "Add"
+   },
+   "add_from_vault": {
+      "message": "Add from vault"
+   },
+   "add_operator_name": {
+      "message": "Add operator name"
+   },
+   "additional_information": {
+      "message": "Additional information"
+   },
+   "age_and_occupation": {
+      "message": "Age and occupation"
+   },
+   "agree_to_delete": {
+      "message": "Yes, delete it!"
+   },
+   "all": {
+      "message": "All"
+   },
+   "all_purchases": {
+      "message": "Fan Purchases Media"
+   },
+   "all_tags": {
+      "message": "All tags"
+   },
+   "apply": {
+      "message": "Apply"
+   },
+   "average_price": {
+      "message": "Average price"
+   },
+   "blur_images": {
+      "message": "Blur images"
+   },
+   "bottom_left": {
+      "message": "Bottom Left"
+   },
+   "bottom_right": {
+      "message": "Bottom Right"
+   },
+   "cancel": {
+      "message": "Cancel"
+   },
+   "cancellation_completed": {
+      "message": "Cancellation completed"
+   },
+   "cancelling": {
+      "message": "Cancelling..."
+   },
+   "chatter": {
+      "message": "Chatter"
+   },
+   "choose_language": {
+      "message": "Language"
+   },
+   "clear_my_labels": {
+      "message": "Clear my labels"
+   },
+   "close": {
+      "message": "Close"
+   },
+   "color": {
+      "message": "Color"
+   },
+   "continue": {
+      "message": "Continue"
+   },
+   "count": {
+      "message": "Count"
+   },
+   "create": {
+      "message": "Create"
+   },
+   "create_and_preview": {
+      "message": "Create & Preview"
+   },
+   "created_at": {
+      "message": "Started"
+   },
+   "customize_the_greeting_message": {
+      "message": "Customize the greeting message"
+   },
+   "default": {
+      "message": "Default"
+   },
+   "delay": {
+      "message": "Delay"
+   },
+   "delay_in_seconds_between_each_message": {
+      "message": "Delay in seconds between each message"
+   },
+   "delete_confirmation": {
+      "message": "Do you want to delete the record?"
+   },
+   "disabled": {
+      "message": "Disabled"
+   },
+   "done": {
+      "message": "Done"
+   },
+   "duration": {
+      "message": "Duration"
+   },
+   "edit_todo": {
+      "message": "Edit todo"
+   },
+   "emoji_list": {
+      "message": "Emoji List"
+   },
+   "en": {
+      "message": "English"
+   },
+   "end_shift": {
+      "message": "End Shift"
+   },
+   "estimated_time": {
+      "message": "Estimated time"
+   },
+   "exclude_creators": {
+      "message": "Exclude creators"
+   },
+   "exclude_who_spend_less": {
+      "message": "Exclude who spend less"
+   },
+   "exclude_who_spend_more": {
+      "message": "Exclude who spend more"
+   },
+   "excluded": {
+      "message": "Excluded"
+   },
+   "excluded_lists": {
+      "message": "Excluded lists"
+   },
+   "exit": {
+      "message": "exit"
+   },
+   "extension": {
+      "message": "Extension"
+   },
+   "failed": {
+      "message": "Failed"
+   },
+   "fan": {
+      "message": "Fan"
+   },
+   "fan_not_found_error": {
+      "message": "No fans found to send. Try reducing the list of exceptions"
+   },
+   "fan_profile": {
+      "message": "Fan profile"
+   },
+   "fan_purchases_media": {
+      "message": "Fan Purchases Media"
+   },
+   "fan_purchases_prices": {
+      "message": "Fan purchases prices"
+   },
+   "fans": {
+      "message": "Fans"
+   },
+   "fans_online": {
+      "message": "Fans online"
+   },
+   "filter": {
+      "message": "Filter"
+   },
+   "greeting_message": {
+      "message": "Greeting message"
+   },
+   "greeting_message_intro": {
+      "message": "With this feature you can create and customize a greeting message. Users can specify a timeout duration in minutes. We continuously monitor fan subscriptions. After someone subscribes, the user's set timer begins counting down. If no one sends a message before the timer runs out, our system will automatically send the saved greeting message"
+   },
+   "h": {
+      "message": "h"
+   },
+   "hide_creators": {
+      "message": "Hide Creators"
+   },
+   "hobbies": {
+      "message": "Hobbies"
+   },
+   "include_unpurchased": {
+      "message": "Include unpurchased"
+   },
+   "income_without_percent": {
+      "message": "W/O OF %"
+   },
+   "key": {
+      "message": "Key"
+   },
+   "labels": {
+      "message": "Labels"
+   },
+   "large": {
+      "message": "Large"
+   },
+   "last_comments": {
+      "message": "Last comments"
+   },
+   "last_likes": {
+      "message": "Last likes"
+   },
+   "last_purchases": {
+      "message": "Last purchases"
+   },
+   "last_subscribers": {
+      "message": "Last subscribers"
+   },
+   "left": {
+      "message": "Left"
+   },
+   "license_account": {
+      "message": "License Account:"
+   },
+   "lists": {
+      "message": "Lists"
+   },
+   "live_support": {
+      "message": "Live Support"
+   },
+   "loading": {
+      "message": "loading"
+   },
+   "m": {
+      "message": "m"
+   },
+   "mass_message_intro": {
+      "message": "With this feature you can create a mass message, which will be sent as a personal message and will appear in the \u003Cstrong>priority\u003C/strong> tab of the fans.\n\t\t\t\t\t\t\u003Cbr/>\u003Cbr/>\n\t\t\t\t\t\t\u003Ci class=\"fa fa-warning\">\u003C/i> Please use this feature only for a list with \u003Cstrong>less\u003C/strong> than \u003Cstrong>1000 fans\u003C/strong>."
+   },
+   "mass_message_sender": {
+      "message": "Mass message sender"
+   },
+   "mass_message_sender_intro": {
+      "message": "\u003Ci class=\"fa fa-warning\">\u003C/i> \u003Cstrong>Don't close this windows\u003C/strong> as sending will be interrupted!\u003Cbr/>\n\t\t\t\t\tAfter process will finish you can close it.\u003Cbr/>\n\t\t\t\t\tYou can \u003Ca href=\"https://onlyfans.com\" target=\"_blank\" rel=\"nofollow\">open\u003C/a> new tab instead to continue work."
+   },
+   "mass_messages": {
+      "message": "Mass messages"
+   },
+   "max_points": {
+      "message": "Max points"
+   },
+   "max_price": {
+      "message": "Max price"
+   },
+   "media": {
+      "message": "Media"
+   },
+   "media_files": {
+      "message": "Media files"
+   },
+   "media_vault": {
+      "message": "Media Vault"
+   },
+   "medium": {
+      "message": "Medium"
+   },
+   "message": {
+      "message": "Message"
+   },
+   "message_overview": {
+      "message": "Message overview"
+   },
+   "message_preview": {
+      "message": "Message preview"
+   },
+   "messages": {
+      "message": "Messages"
+   },
+   "min": {
+      "message": "Min"
+   },
+   "name": {
+      "message": "Name"
+   },
+   "new": {
+      "message": "New"
+   },
+   "new_mass_message": {
+      "message": "New mass message"
+   },
+   "new_todo": {
+      "message": "New todo"
+   },
+   "news_and_updates": {
+      "message": "News & Updates"
+   },
+   "no": {
+      "message": "No"
+   },
+   "note_for_fan": {
+      "message": "Note for fan"
+   },
+   "of": {
+      "message": "of"
+   },
+   "online": {
+      "message": "online"
+   },
+   "online_fans_settings": {
+      "message": "Online fans settings"
+   },
+   "open": {
+      "message": "Open"
+   },
+   "open_dialog_to_load_fan_info": {
+      "message": "Open dialog to load fan info"
+   },
+   "operator": {
+      "message": "Operator"
+   },
+   "operator_income": {
+      "message": "OP $"
+   },
+   "page_income": {
+      "message": "Page $"
+   },
+   "photo": {
+      "message": "Photo"
+   },
+   "please_choose_the_operator": {
+      "message": "Please select the operator"
+   },
+   "please_refresh_page": {
+      "message": "Please \u003Ca type=\"button\" role=\"button\" tabindex=\"0\" class=\"refreshBtn\"> refresh \u003C/a> the page to apply changes"
+   },
+   "posts": {
+      "message": "Posts"
+   },
+   "press_esc_to_close": {
+      "message": "Press \u003Cspan class=\"black_button_highlight\">ESC\u003C/span> to close"
+   },
+   "price": {
+      "message": "Price"
+   },
+   "prices": {
+      "message": "Prices"
+   },
+   "profile": {
+      "message": "Profile"
+   },
+   "prolong_subscribe": {
+      "message": "Prolong subscribe"
+   },
+   "purchases": {
+      "message": "Purchases"
+   },
+   "read_more": {
+      "message": "Read more"
+   },
+   "reply_on_subscribe_is_enable": {
+      "message": "Please note that you have already enabled the reply-on-subscribe function on OnlyFans. If you also enable our functionality, subscribers will receive two greeting messages upon subscription"
+   },
+   "reset": {
+      "message": "Reset"
+   },
+   "returning": {
+      "message": "Returning"
+   },
+   "right": {
+      "message": "Right"
+   },
+   "ru": {
+      "message": "Russian"
+   },
+   "s": {
+      "message": "s"
+   },
+   "save": {
+      "message": "Save"
+   },
+   "select_list": {
+      "message": "Select list"
+   },
+   "select_user": {
+      "message": "Select operator"
+   },
+   "send_to": {
+      "message": "Send to"
+   },
+   "sending": {
+      "message": "Sending"
+   },
+   "settings": {
+      "message": "Settings"
+   },
+   "show_multiple_for_day": {
+      "message": "Show multiple for day (if available)"
+   },
+   "sign_in": {
+      "message": "Sign In"
+   },
+   "sign_into_onlyfans_account_first": {
+      "message": "Sign into OnlyFans Account first"
+   },
+   "sign_up": {
+      "message": "Sign Up"
+   },
+   "size": {
+      "message": "Size"
+   },
+   "small": {
+      "message": "Small"
+   },
+   "spend_less_than_zero": {
+      "message": "Only fans who spent \u003Cstrong>> $${spend_less}\u003C/strong> will receive message."
+   },
+   "spend_more_than_zero": {
+      "message": "Only fans who spent \u003Cstrong>\u003C $${spend_more}\u003C/strong> will receive message."
+   },
+   "spent": {
+      "message": "Spent"
+   },
+   "spent_less_than_zero_and_spend_more_then_zero": {
+      "message": "Only fans who spent from \u003Cstrong>$${spend_less}\u003C/strong> to \u003Cstrong>$${spend_more}\u003C/strong> will receive message."
+   },
+   "start": {
+      "message": "Start"
+   },
+   "start_shift": {
+      "message": "Start Shift"
+   },
+   "status": {
+      "message": "Status"
+   },
+   "stop": {
+      "message": "Stop"
+   },
+   "subs": {
+      "message": "Subs"
+   },
+   "subscribe_end": {
+      "message": "Subscribe end"
+   },
+   "subscribed": {
+      "message": "Subscribed"
+   },
+   "success": {
+      "message": "Success"
+   },
+   "task_is_created": {
+      "message": "A new task has been created"
+   },
+   "task_is_updated": {
+      "message": "Task has been updated"
+   },
+   "templates": {
+      "message": "Templates"
+   },
+   "thanks_for_choosing_our_extension": {
+      "message": "Thanks for choosing our extension!"
+   },
+   "time_zones": {
+      "message": "Time zones"
+   },
+   "timeout": {
+      "message": "Timeout"
+   },
+   "tips": {
+      "message": "Tips"
+   },
+   "todo_done": {
+      "message": "Done"
+   },
+   "todo_intro": {
+      "message": "With this feature you can create a todo list"
+   },
+   "todo_undone": {
+      "message": "Todo"
+   },
+   "todos": {
+      "message": "Todo list"
+   },
+   "top_left": {
+      "message": "Top Left"
+   },
+   "top_right": {
+      "message": "Top Right"
+   },
+   "total_accounts": {
+      "message": "Total accounts"
+   },
+   "unsend": {
+      "message": "Unsend"
+   },
+   "unsend_done": {
+      "message": "Unsend done"
+   },
+   "unsending": {
+      "message": "Unsending"
+   },
+   "unsent": {
+      "message": "Unsent"
+   },
+   "updated_at": {
+      "message": "Updated"
+   },
+   "updates": {
+      "message": "Updates"
+   },
+   "user_will_be_online": {
+      "message": "Additionally, please be aware that for the greeting to work, you must be online"
+   },
+   "video": {
+      "message": "Video"
+   },
+   "we_dont_collect_any_credential_or_session_key_data": {
+      "message": "We don't collect any credential or session key data,"
+   },
+   "we_verify_all_accounts_to_confirm_your_ownership_of_them": {
+      "message": "We verify all accounts to confirm your ownership of them,"
+   },
+   "website": {
+      "message": "Website"
+   },
+   "where_from": {
+      "message": "Where from"
+   },
+   "yes": {
+      "message": "Yes"
+   }
+}
